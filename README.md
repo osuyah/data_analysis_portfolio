@@ -3,8 +3,8 @@
 ## Education
 - Research, Instructional Technology | Naruto University of Education, Japan (2024)
 - BEd. Information Technology | Valley View University, Ghana (2017)
-### Certification
-- Google Advanced Data Analytics Professional Certificate
+## Certification
+- Google Advanced Data Analytics Professional Certificate,September 2024 (Credential ID E6324HSUXFFR)
 - Google Business Intelligent Specialization March 2024 (Credential ID ZK5399RRHBVE).
 
 ## Work Experience
@@ -12,9 +12,9 @@ Data Analyst  at Ghana Education Service, Awutu Senya District Directorate (Octo
 - about what I accomplished.
 - about what I accomplished.
 
-### Projects
+## Projects
 ### Data analysis with Python
--EDA
+-EDA 
 -other project
 
 ### SQL for data analysis

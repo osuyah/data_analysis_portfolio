@@ -4,7 +4,7 @@
 - Research, Instructional Technology | Naruto University of Education, Japan (2024)
 - BEd. Information Technology | Valley View University, Ghana (2017)
 ## Certification
-- Google Advanced Data Analytics Professional Certificate,September 2024 (Credential ID E6324HSUXFFR)
+- Google Advanced Data Analytics Professional Certificate, September 2024 (Credential ID E6324HSUXFFR)
 - Google Business Intelligent Specialization March 2024 (Credential ID ZK5399RRHBVE).
 
 ## Work Experience
@@ -21,4 +21,8 @@ Data Analyst  at Ghana Education Service, Awutu Senya District Directorate (Octo
 - add more works here
 
 ## Publications
-- A research work i published
+- A research work I published
+
+### Profile
+- LinkIn
+- [LinkedIn ](https://www.linkedin.com/in/ebenezer-osuyah-30891a50)

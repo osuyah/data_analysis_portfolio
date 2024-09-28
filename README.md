@@ -24,5 +24,4 @@ Data Analyst  at Ghana Education Service, Awutu Senya District Directorate (Octo
 - A research work I published
 
 ### Profile
-- LinkIn
 - [LinkedIn ](https://www.linkedin.com/in/ebenezer-osuyah-30891a50)

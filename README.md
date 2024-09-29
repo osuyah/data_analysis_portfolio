@@ -1,6 +1,6 @@
 # Data Analyst Portfolio
 
-### Profile
+## Profile
 - [LinkedIn ](https://www.linkedin.com/in/ebenezer-osuyah-30891a50)
 - osubenezer@gmail.com
 - Naruto, Japan

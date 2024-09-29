@@ -9,6 +9,7 @@
 ## Education
 - Research, Instructional Technology | Naruto University of Education, Japan (2024)
 - BEd. Information Technology | Valley View University, Ghana (2017)
+
 ## Certification
 - Google Advanced Data Analytics Professional Certificate, September 2024 (Credential ID E6324HSUXFFR)
 - Google Business Intelligent Specialization March 2024 (Credential ID ZK5399RRHBVE).

@@ -28,7 +28,11 @@ Data Analyst  at Ghana Education Service, Awutu Senya District Directorate (Octo
 -other project
 
 ### SQL for data analysis
-- add more works here
+- CUSTOMER SALES ANALYSIS – Personal Project 
+●	Utilized SQL to extract data from 5 different related tables from customer sales databases using JOIN and VIEW
+●	Transformed and filtered data by using aggregating and filtering function to improve the reporting process
+●	Loaded and visualized data with Python to identify key business intelligence that can improve sales performance
+- load the image here
 
 ## Publications
 - A research work I published

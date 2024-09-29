@@ -28,3 +28,7 @@ Data Analyst  at Ghana Education Service, Awutu Senya District Directorate (Octo
 
 ### Profile
 - [LinkedIn ](https://www.linkedin.com/in/ebenezer-osuyah-30891a50)
+- osubenezer@gmail.com
+Naruto, Japan
++818081281248
+

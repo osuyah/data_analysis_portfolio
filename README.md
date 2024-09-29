@@ -1,4 +1,10 @@
-# Data Analyst
+# Data Analyst Portfolio
+
+### Profile
+- [LinkedIn ](https://www.linkedin.com/in/ebenezer-osuyah-30891a50)
+- osubenezer@gmail.com
+- Naruto, Japan
+- +818081281248
 
 ## Education
 - Research, Instructional Technology | Naruto University of Education, Japan (2024)
@@ -26,9 +32,5 @@ Data Analyst  at Ghana Education Service, Awutu Senya District Directorate (Octo
 ## Publications
 - A research work I published
 
-### Profile
-- [LinkedIn ](https://www.linkedin.com/in/ebenezer-osuyah-30891a50)
-- osubenezer@gmail.com
-Naruto, Japan
-+818081281248
+
 

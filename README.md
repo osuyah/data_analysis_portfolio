@@ -9,8 +9,11 @@
 
 ## Work Experience
 Data Analyst  at Ghana Education Service, Awutu Senya District Directorate (October 2019 - September 2023)
-- about what I accomplished.
-- about what I accomplished.
+- Boosted attendance rates by 10% through analysis of attendance patterns with Python.
+- Improved identification of at-risk students by 25% through a comprehensive Excel database.
+- Enabled informed decision-making with dynamic Excel dashboards visualizing key performance indicators (KPIs) and trends.
+- Employed SQL queries on an Excel-based student attendance dataset to efficiently organize and analyze data, uncovering key attendance patterns and trends. This analysis resulted in a 10% increase in overall attendance rates.
+- Leveraged Tableau to analyze a teacher dataset, identifying key factors influencing retention and attrition rates. This analysis led to targeted strategies that improved teacher retention by 15% over the academic year.
 
 ## Projects
 ### Data analysis with Python

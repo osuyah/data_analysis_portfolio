@@ -1,5 +1,5 @@
 #Site setting
-title: Data Analyst Portfolio
+title: Osuyah Ebenezer
 logo: /asset/osuyah1.png
 description: files have sections for author information, social links, and other metadata. Here’s an example of how you might add your contact information:
 #linkedin: your_linkedin_profile
@@ -9,12 +9,12 @@ theme: jekyll-theme-minimal
 
 
 #Author Settings
-author:
-name: Osuyah Ebenezer
-email: your.email@example.com
-twitter: your_twitter_handle
-linkedin: your_linkedin_profile
-github: your_github_profile
+#author:
+#name: Osuyah Ebenezer
+#email: your.email@example.com
+#twitter: your_twitter_handle
+#linkedin: your_linkedin_profile
+#github: your_github_profile
 
 
 

@@ -2,7 +2,7 @@
 title: Data Analyst Portfolio
 logo: /asset/osuyah1.png
 description: files have sections for author information, social links, and other metadata. Here’s an example of how you might add your contact information:
-linkedin: your_linkedin_profile
+#linkedin: your_linkedin_profile
 #github: your_github_profile
 #show_downloads: true
 theme: jekyll-theme-minimal

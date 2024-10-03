@@ -2,6 +2,7 @@
 
 ## Profile
 - [LinkedIn ](https://www.linkedin.com/in/ebenezer-osuyah-30891a50)
+- [Website](https://osuyah.github.io/data_analysis_portfolio/)
 - osubenezer@gmail.com
 - Naruto, Japan
 - +818081281248

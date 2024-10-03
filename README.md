@@ -29,12 +29,13 @@ Data Analyst  at Ghana Education Service, Awutu Senya District Directorate (Octo
 ### Data analysis with Python
 -Utilized Python, employing libraries such as Pandas, Scikit-learn, Matplotlib, and Seaborn, to analyze a student performance dataset with visuals.
 ![Results](/asset/results.png)
+![Results](/asset/results2.png)
 
 
 ### SQL for data analysis
-#### CUSTOMER SALES ANALYSIS – Personal Project 
+#### Customer Sales Analysis – Personal Project 
 -	Utilized SQL to extract data from 5 different related tables from customer sales databases using JOIN and VIEW
-- Transformed and filtered data by using aggregating and filtering function to improve the reporting process
+- Transformed and filtered data by using aggregating and filtering functions to improve the reporting process
 - Loaded and visualized data with Python to identify key business intelligence that can improve sales performance
 - load the image here
 

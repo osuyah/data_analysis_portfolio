@@ -7,7 +7,7 @@
 - +818081281248
 
 ## Summary
-A versatile person with experience in exploratory data analysis, data visualization, hypothesis testing, and linear and logistic regression. Excellent understanding and proficiency in platforms for effective data analysis, cleaning, and visualization, including spreadsheets, Python, and Tableau. Strong communication, organizational, and analytical skills. Recently completed the Google Advanced Data Analytics Certificate—a rigorous, hands-on program that covers the entire scope of the data analysis and data modelling process.
+A versatile person with experience in exploratory data analysis, data visualization, hypothesis testing, and linear and logistic regression. Excellent understanding and proficiency in platforms for effective data analysis, cleaning, and visualization, including spreadsheets, Python, and Tableau. Strong communication, organizational, and analytical skills. Recently completed the Google Advanced Data Analytics Certificate a rigorous, hands-on program that covers the entire scope of the data analysis and data modelling process.
 
 ## Education
 - Research, Instructional Technology | Naruto University of Education, Japan (2024)
@@ -41,7 +41,7 @@ Data Analyst  at Ghana Education Service, Awutu Senya District Directorate (Octo
 - load the image here
 
 ## Publications
-- A research work I published
+- *A research work I published
 
 
 

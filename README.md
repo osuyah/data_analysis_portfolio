@@ -27,6 +27,7 @@ Data Analyst  at Ghana Education Service, Awutu Senya District Directorate (Octo
 
 ## Projects
 ### Data analysis with Python
+[Analysis on student performance](https://www.kaggle.com/code/osuyah/student-performance-analysis)
 -Utilized Python, employing libraries such as Pandas, Scikit-learn, Matplotlib, and Seaborn, to analyze a student performance dataset with visuals.
 ![Results](/asset/results.png)
 ![Results](/asset/results2.png)

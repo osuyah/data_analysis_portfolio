@@ -28,6 +28,7 @@ Data Analyst  at Ghana Education Service, Awutu Senya District Directorate (Octo
 ## Projects
 ### Data analysis with Python
 -Utilized Python, employing libraries such as Pandas, Scikit-learn, Matplotlib, and Seaborn, to analyze a student performance dataset with visuals.
+![Bike Study](/asset/_results__18_0.png)
 
 
 ### SQL for data analysis

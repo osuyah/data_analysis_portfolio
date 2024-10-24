@@ -8,7 +8,27 @@
 - +818081281248
 
 ## Summary
-A versatile person with experience in exploratory data analysis, data visualization, hypothesis testing, and linear and logistic regression. Excellent understanding and proficiency in platforms for effective data analysis, cleaning, and visualization, including spreadsheets, Python, and Tableau. Strong communication, organizational, and analytical skills. Recently completed the Google Advanced Data Analytics Certificate a rigorous, hands-on program that covers the entire scope of the data analysis and data modelling process.
+A versatile individual with experience in exploratory data analysis, data visualization, hypothesis testing, regression analysis, and machine learning models like Naive Bayes and decision trees. Excellent understanding and proficiency of platforms for effective data analysis, cleaning, and visualization, including spreadsheets, Python, and Tableau. Strong communication, organizational, and analytical skills. Recently completed the Google Advanced Data Analytics Certificate a rigorous, hands-on program that covers the entire scope of the data analysis and data modelling process..
+
+## Skills
+- Strong analytical and data interpretations kills
+-	Ability to manage priority and cross-functional collaboration.
+-	Python, SQL, Tableau, Power BI and Spreadsheet.
+-	Exploratory data analysis
+- Regression analysis
+-	Statistical analysis
+-	Excellent writing and communication skills (English).
+- Basic Communication (Japanese).
+- Leadership and Mentoring.
+- Innovative problem-solving. 
+
+-
+
+
+
+
+
+
 
 ## Education
 - Research, Instructional Technology | Naruto University of Education, Japan (2024)

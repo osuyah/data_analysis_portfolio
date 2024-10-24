@@ -43,12 +43,17 @@ Data Analyst  at Ghana Education Service, Awutu Senya District Directorate (Octo
 
 
 ## Projects
-### Data analysis with Python
+### Data Analysis Projects
 [Analysis on student performance](https://www.kaggle.com/code/osuyah/student-performance-analysis)
--Utilized Python, employing libraries such as Pandas, Scikit-learn, Matplotlib, and Seaborn, to analyze a student performance dataset with visuals.
+- Leveraged Python, employing libraries such as Pandas, Scikit-learn, Matplotlib, and Seaborn, to analyze a student performance dataset with visuals.
 ![Results](/asset/results.png)
 ![Results](/asset/results2.png)
 
+- [Classification of Waze data](https://www.kaggle.com/code/osuyah/student-performance-analysis#)
+- Built decision tree, random forest, and XGBoost to predict Waze user churn.
+
+  []()
+- Used multiple regression to predict taxi fares, data that would be used as part of a suite of models to optimize revenue for the New York Taxi and Limousine Commission and its drivers.
 
 ### SQL for data analysis
 #### Customer Sales Analysis – Personal Project 

@@ -16,13 +16,13 @@ A versatile individual with experience in exploratory data analysis, data visual
 -	Python, SQL, Tableau, Power BI and Spreadsheet.
 -	Exploratory data analysis
 - Regression analysis
+  |
 -	Statistical analysis
 -	Excellent writing and communication skills (English).
 - Basic Communication (Japanese).
 - Leadership and Mentoring.
 - Innovative problem-solving. 
 
--
 
 
 

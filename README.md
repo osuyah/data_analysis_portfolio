@@ -8,10 +8,10 @@
 - +818081281248
 
 ## Summary
-A versatile individual with experience in exploratory data analysis, data visualization, hypothesis testing, regression analysis, and machine learning models like Naive Bayes and decision trees. Excellent understanding and proficiency of platforms for effective data analysis, cleaning, and visualization, including spreadsheets, Python, and Tableau. Strong communication, organizational, and analytical skills. Recently completed the Google Advanced Data Analytics Certificate a rigorous, hands-on program that covers the entire scope of the data analysis and data modelling process..
+A versatile individual with experience in exploratory data analysis, data visualization, hypothesis testing, regression analysis, and machine learning models like Naive Bayes and decision trees. Excellent understanding and proficiency in platforms for effective data analysis, cleaning, and visualization, including spreadsheets, Python, and Tableau. Strong communication, organizational, and analytical skills. Recently completed the Google Advanced Data Analytics Certificate a rigorous, hands-on program that covers the entire scope of the data analysis and data modelling process.
 
 ## Skills
-- Strong analytical and data interpretations kills
+- Strong analytical and data interpretation skills
 -	Ability to manage priority and cross-functional collaboration.
 -	Python, SQL, Tableau, Power BI and Spreadsheet.
 -	Exploratory data analysis
@@ -23,13 +23,6 @@ A versatile individual with experience in exploratory data analysis, data visual
 - Leadership and Mentoring.
 - Innovative problem-solving. 
 
-
-
-
-
-
-
-
 ## Education
 - Research, Instructional Technology | Naruto University of Education, Japan (2024)
 - BEd. Information Technology | Valley View University, Ghana (2017)
@@ -39,12 +32,15 @@ A versatile individual with experience in exploratory data analysis, data visual
 - Google Business Intelligent Specialization March 2024 (Credential ID ZK5399RRHBVE).
 
 ## Work Experience
-Data Analyst  at Ghana Education Service, Awutu Senya District Directorate (October 2019 - September 2023)
-- Boosted attendance rates by 10% through analysis of attendance patterns with Python.
-- Improved identification of at-risk students by 25% through a comprehensive Excel database.
-- Enabled informed decision-making with dynamic Excel dashboards visualizing key performance indicators (KPIs) and trends.
-- Employed SQL queries on an Excel-based student attendance dataset to efficiently organize and analyze data, uncovering key attendance patterns and trends. This analysis resulted in a 10% increase in overall attendance rates.
-- Leveraged Tableau to analyze a teacher dataset, identifying key factors influencing retention and attrition rates. This analysis led to targeted strategies that improved teacher retention by 15% over the academic year.
+Data Analyst  at Ghana Education Service, Awutu Senya District Directorate (October 2020 - September 2023)
+- Leverage Python to clean, analyse and visualise large datasets.
+- Leverage on Tableau dashboard to share insight from analysed data with stakeholders on the attendance rate and attrition rate of teachers.
+- Leveraged SQL and Python to organize and analyze an Excel-based student attendance dataset, uncovering key attendance patterns and trends, leading to a 10% increase in overall attendance rates.
+- Assisted the statistics team in improving at-risk students’ identification by 25% by developing a comprehensive Excel database.
+- Assisted the statistics team in improving at-risk students’ identification using Google BIgQuery to manage large datasets, improving the speed of data retrieval by 15%.
+- Facilitated informed decision-making with dynamic Excel dashboards visualizing key performance indicators (KPIs) and trends.
+- Implemented data visualization using Tableau to visualise employee datasets, identifying key factors influencing retention and attrition rates. This analysis led to targeted strategies that improved teacher retention by 15% over the academic year.
+
 
 ## Projects
 ### Data analysis with Python

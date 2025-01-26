@@ -52,7 +52,7 @@ Data Analyst  at Ghana Education Service, Awutu Senya District Directorate (Octo
 - [Classification of Waze data](https://www.kaggle.com/code/osuyah/student-performance-analysis#)
 - Built decision tree, random forest, and XGBoost to predict Waze user churn.
 
-  []()
+  [multiple regression to predict taxi fares](https://github.com/osuyah/data_analysis_portfolio/blob/main/Exemplar_Evaluate%20simple%20linear%20regression.ipynb)
 - Used multiple regression to predict taxi fares, data that would be used as part of a suite of models to optimize revenue for the New York Taxi and Limousine Commission and its drivers.
 
 ### SQL for data analysis

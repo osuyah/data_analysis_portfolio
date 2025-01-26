@@ -49,7 +49,7 @@ Data Analyst  at Ghana Education Service, Awutu Senya District Directorate (Octo
 ![Results](/asset/results.png)
 ![Results](/asset/results2.png)
 
-[A/B Testing for Revenue Optimization in Taxi Services](...)
+[A/B Testing for Revenue Optimization in Taxi Services](Automatidata Project using AB testing and hypothesis part 1.md)
 - Utilized Python, incorporating libraries such as Pandas, NumPy, SciPy, and Matplotlib, to design and analyze an A/B testing framework that evaluates the relationship between payment methods and fare amounts, providing actionable insights for revenue optimization in taxi services.
 
 - [Classification of Waze data](https://www.kaggle.com/code/osuyah/student-performance-analysis#)

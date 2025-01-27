@@ -8,7 +8,7 @@
 - +818081281248
 
 ## Summary
-A versatile individual with experience in exploratory data analysis, data visualization, hypothesis testing, regression analysis, and machine learning models like Naive Bayes and decision trees. Excellent understanding and proficiency in platforms for effective data analysis, cleaning, and visualization, including spreadsheets, Python, and Tableau. Strong communication, organizational, and analytical skills. Recently completed the Google Advanced Data Analytics Certificate a rigorous, hands-on program that covers the entire scope of the data analysis and data modelling process.
+Results-driven Data Scientist with extensive experience in Python programming, machine learning algorithm development, and Agile software practices. Proficient in developing data-driven solutions to automate and enhance systems, with a proven ability to deliver high-quality results under tight deadlines. Passionate about innovation and adept at collaborating in dynamic, cross-functional environments. Certified in Google Advanced Data Analytics and Python, with a strong background in designing and implementing machine learning models.
 
 ## Skills
 - Strong analytical and data interpretation skills

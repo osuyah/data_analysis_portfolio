@@ -55,7 +55,7 @@ Data Analyst  at Ghana Education Service, Awutu Senya District Directorate (Octo
 [User Churn Prediction in Waze Using Logistic Regression](Waze Project , Regression Analysis.zip)
 - Develop a binomial logistic regression model to predict user churn in the Waze application. The project involves exploratory data analysis (EDA), feature engineering, and model evaluation.
 
-  [multiple regression to predict taxi fares](https://github.com/osuyah/data_analysis_portfolio/blob/main/Exemplar_Evaluate%20simple%20linear%20regression.ipynb)
+[multiple regression to predict taxi fares](https://github.com/osuyah/data_analysis_portfolio/blob/main/Exemplar_Evaluate%20simple%20linear%20regression.ipynb)
 - Used multiple regression to predict taxi fares, data that would be used as part of a suite of models to optimize revenue for the New York Taxi and Limousine Commission and its drivers.
 
 ### SQL for data analysis

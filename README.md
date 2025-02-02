@@ -11,18 +11,17 @@
 Results-driven Data Scientist with extensive experience in Python programming, machine learning algorithm development, and Agile software practices. Proficient in developing data-driven solutions to automate and enhance systems, with a proven ability to deliver high-quality results under tight deadlines. Passionate about innovation and adept at collaborating in dynamic, cross-functional environments. Certified in Google Advanced Data Analytics and Python, with a strong background in designing and implementing machine learning models.
 
 ## Skills
-- Strong analytical and data interpretation skills
+- Programming Languages: Python (NumPy, Pandas, Scikit-learn, TensorFlow).
+- Machine Learning: Supervised and unsupervised learning, anomaly detection, predictive modelling.
+- Development Methodologies: Agile development.
+- Data Analysis and Visualization: Data wrangling, feature engineering, Matplotlib, Seaborn, Tableau.
 -	Ability to manage priority and cross-functional collaboration.
 -	Python, SQL, Tableau, Power BI and Spreadsheet.
--	Exploratory data analysis
-- Regression analysis
-  |
--	Statistical analysis
 -	Excellent writing and communication skills (English).
-- Basic Communication (Japanese).
+- Japanese level JLPT 3 (in view).
 - Leadership and Mentoring.
-- Innovative problem-solving. 
-
+- Innovative problem-solving.
+ 
 ## Education
 - Research, Instructional Technology | Naruto University of Education, Japan (2024)
 - BEd. Information Technology | Valley View University, Ghana (2017)

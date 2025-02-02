@@ -52,7 +52,7 @@ Data Analyst  at Ghana Education Service, Awutu Senya District Directorate (Octo
 [A/B Testing for Revenue Optimization in Taxi Services](Automatidata Project using AB testing and hypothesis part 1.md)
 - Utilized Python, incorporating libraries such as Pandas, NumPy, SciPy, and Matplotlib, to design and analyze an A/B testing framework that evaluates the relationship between payment methods and fare amounts, providing actionable insights for revenue optimization in taxi services.
 
-- [User Churn Prediction in Waze Using Logistic Regression](Waze Project , Regression Analysis)
+[User Churn Prediction in Waze Using Logistic Regression](Waze Project , Regression Analysis)
 - Develop a binomial logistic regression model to predict user churn in the Waze application. The project involves exploratory data analysis (EDA), feature engineering, and model evaluation.
 
   [multiple regression to predict taxi fares](https://github.com/osuyah/data_analysis_portfolio/blob/main/Exemplar_Evaluate%20simple%20linear%20regression.ipynb)

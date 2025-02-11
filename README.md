@@ -53,7 +53,10 @@ Data Analyst  at Ghana Education Service, Awutu Senya District Directorate (Octo
 
 [Predictive Analytics for Employee Retention and Turnover](Salifort Motor project.md)
 - This project involved a comprehensive analysis of employee data from Salifort Motors to predict employee turnover and identify key drivers of attrition. Using advanced data analysis techniques, including exploratory data analysis (EDA), statistical modeling, and machine learning, I developed a predictive model to forecast employee departures. Through the application of various data visualization methods and performance metrics, I provided actionable insights into factors influencing retention rates. The project culminated in a detailed report with strategic recommendations aimed at reducing turnover, demonstrating my expertise in data wrangling, feature engineering, and model evaluation within the context of human resources analytics.
-- ![Results](/asset/results.png)
+- ![Results](/asset/output_33_0.png)
+- ![Results](/asset/output_41_0.png)
+- ![Results](/asset/output_58_0.png)
+- ![Results](/asset/output_65_0.png)
 
 [User Churn Prediction in Waze Using Logistic Regression](Waze Project  Regression Analysis.html)
 - Develop a binomial logistic regression model to predict user churn in the Waze application. The project involves exploratory data analysis (EDA), feature engineering, and model evaluation.
